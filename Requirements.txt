@@ -1,0 +1,8 @@
+flask
+sklearn
+pandas
+matplotlib
+statistics
+numpy
+seaborn
+pandas_profiling
