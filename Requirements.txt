@@ -6,3 +6,4 @@ statistics
 numpy
 seaborn
 pandas_profiling
+gunicorn
